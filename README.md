@@ -52,8 +52,8 @@ Five pages, each with four modules; each module is a bank of four Q-Links, and t
 
 ## Good to know
 - Third-party plugins are not supported by inMusic / Akai. Save your work often, and test before you rely on it live.
-- Tested on one MPC One. The CPU guard lets it use up to half of each audio block; heavy presets may play 6-7 notes
-  instead of 8.
+- Tested on an MPC One: it runs without problems. A CPU guard keeps it within half of each audio block, so it won't
+  choke the MPC (if it ever runs out, the oldest note gives way).
 - Morph amounts come with each preset and can't be edited on the MPC.
 - Changing program cuts the notes that are sounding. No aftertouch or MIDI clock (it follows the MPC's transport).
 
