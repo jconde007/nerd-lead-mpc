@@ -1,0 +1,9 @@
+Nerd Lead for the Akai MPC
+Copyright (c) 2026 Jorge Conde
+
+Free to use, in your own music and commercially, and free to share as long as the package is unchanged.
+It is not open source: no permission is given to modify, decompile or sell it.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. USE IT AT YOUR OWN RISK.
+
+The plugin is built with inMusic's MPC Plugin Builder SDK, MIT licence (LICENSES/MPC-Plugin-Builder-SDK.txt in the zip).
