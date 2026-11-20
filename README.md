@@ -6,7 +6,7 @@ and drive, chorus, delay and reverb, with 99 presets. It runs on the MPC itself,
 
 ![The OSC page on the MPC's screen](docs/img/osc.png)
 
-**Download:** [Releases](https://github.com/jconde007/nerd-lead-mpc/releases) → `nerd-lead-mpc-1.2.1.zip`
+**Download:** [Releases](https://github.com/jconde007/nerd-lead-mpc/releases) → `nerd-lead-mpc-1.2.2.zip`
 
 The same synth is also on the M-VAVE FM-1 as [Nerd Pocket](https://github.com/jconde007/nerd-pocket).
 
